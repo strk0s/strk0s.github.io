@@ -1359,6 +1359,7 @@ body {
 }
 .cid-riiXgf3jln H2 {
   color: #f9f9f9;
+  text-align: left;
 }
 .cid-riiXuaSGHr {
   padding-top: 0px;
@@ -1372,9 +1373,12 @@ body {
 .cid-riiXuaSGHr .btn {
   margin: 0 0 .5rem 0;
 }
+.cid-riiXuaSGHr H2 {
+  text-align: left;
+}
 .cid-rikrOfdrLE {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #730521;
 }
 .cid-rikrOfdrLE .row-links {
