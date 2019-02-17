@@ -1052,6 +1052,9 @@
             },
             ".panel-text": {
               "color": "#000000"
+            },
+            "H4": {
+              "text-align": "center"
             }
           },
           "_name": "accordion1",
