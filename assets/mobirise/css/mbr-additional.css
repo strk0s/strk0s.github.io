@@ -574,9 +574,6 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 #scrollToTop a i:before {
   content: '';
   position: absolute;
@@ -1311,6 +1308,13 @@ body {
     padding: 1rem !important;
   }
 }
+.cid-riielq6Y0S .mbr-text,
+.cid-riielq6Y0S .mbr-section-btn {
+  text-align: center;
+}
+.cid-riielq6Y0S H1 {
+  text-align: center;
+}
 .cid-riiV3qn4Dx {
   padding-top: 15px;
   padding-bottom: 60px;
@@ -1366,8 +1370,8 @@ body {
   margin: 0 0 .5rem 0;
 }
 .cid-rikkXD6Ozp {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #730521;
 }
 .cid-rikkXD6Ozp .row-links {
@@ -2075,8 +2079,8 @@ body {
   color: #000000;
 }
 .cid-rikl2BaSWU {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #730521;
 }
 .cid-rikl2BaSWU .row-links {
@@ -2554,6 +2558,9 @@ body {
 }
 .cid-rik5cskNrJ .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-rik5cskNrJ H2 {
+  text-align: center;
 }
 .cid-riklOWle7j .navbar {
   padding: .5rem 0;
